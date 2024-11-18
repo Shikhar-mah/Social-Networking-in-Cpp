@@ -1,6 +1,3 @@
-// deletefriends.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//================
 // Delete a friend
 //================
 #ifndef DELETEFRIENDS_H
