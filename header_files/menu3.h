@@ -1,6 +1,3 @@
-// menu3.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//=====================
 // Send friend request
 //=====================
 #ifndef MENU3_H

@@ -1,6 +1,3 @@
-// friends.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//=================================
 // Check friends for logged in user
 //=================================
 #ifndef FRIENDS_H

@@ -1,6 +1,3 @@
-// listusers.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//================================================
 // Number of all registered users (name, password)
 //================================================
 #ifndef LISTUSERS_H

@@ -1,6 +1,3 @@
-// registration.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//==============================
 // New User Registration Process
 //==============================
 #ifndef REGISTRATION_H

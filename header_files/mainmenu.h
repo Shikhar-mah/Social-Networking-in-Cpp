@@ -1,6 +1,3 @@
-// mainmenu.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//=======================
 // First Menu and Options
 //=======================
 #ifndef MAINMENU_H

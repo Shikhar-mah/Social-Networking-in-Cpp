@@ -1,6 +1,3 @@
-// menu2.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//=============================
 // Menu after successful Log In
 //=============================
 #ifndef MENU2_H

@@ -1,6 +1,3 @@
-// goback.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//=====================
 // Go back to Main Menu
 //=====================
 #ifndef GOBACK_H
