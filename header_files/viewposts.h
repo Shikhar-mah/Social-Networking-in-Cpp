@@ -1,6 +1,3 @@
-// viewposts.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//==============
 // See your wall
 //==============
 #ifndef VIEWPOSTS_H
@@ -145,6 +142,5 @@ void viewposts()
     likesnum.close(); // Close file of posts with likes
     goback(); // Check if user wants to continue or go back to main menu
 }
-
 
 #endif // VIEWPOSTS_H
